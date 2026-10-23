@@ -19,18 +19,6 @@ Uma lista de tarefas simples feita com **HTML, CSS e JavaScript**.
 
 Acesse o projeto diretamente pelo navegador:
 
-https://nhenricky.github.io/App/
-
-
-## Estrutura
-
-```text
-App/
-├── index.html
-├── style.css
-└── app.js
-```
-
-## Licença
+https://nhenricky.github.io/app/
 
 Este projeto está disponível para estudo e uso livre.
